@@ -273,7 +273,7 @@ footer {
     margin: 10px auto;
   }
   #contact::before {
-    height: 600px;
+    height: 650px;
   }
   #contact-form input,
   #contact-form textarea {
